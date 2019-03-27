@@ -1,0 +1,352 @@
+Name,Rubric Level,Rubric Item,Rubric Group,Rubric Unit
+Recognize array literals,1 (Novice),Arrays,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Create an array using an array literal,2 (Emerging),Arrays,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Access items in an array by index,2 (Emerging),Arrays,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Add items to an array using push,2 (Emerging),Arrays,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Add items to an array using unshift,2 (Emerging),Arrays,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Remove items from an array using pop,2 (Emerging),Arrays,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Remove items from an array using shift,2 (Emerging),Arrays,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+"Operate on an array using enumerable methods (e.g. sort, include?, reverse)",3 (Progressing),Arrays,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Explain the concept of iteration over an array,3 (Progressing),Arrays,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Iterate over arrays using enumerable methods,3 (Progressing),Arrays,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+"Explain the return value of Array#each, Array#map, Array#find, and Array#select",3 (Progressing),Arrays,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Iterate over nested arrays,4 (Proficient),Arrays,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Remove an element from the middle of an array,4 (Proficient),Arrays,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Implement a binary search method for sorted arrays,5 (Mastery),Arrays,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Implement a method which flattens nested arrays,5 (Mastery),Arrays,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Describe the relationship between arrays and stacks,5 (Mastery),Arrays,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Describe the relationship between arrays and queues,5 (Mastery),Arrays,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Define and provide examples of the number type,1 (Novice),Data types,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Define and provide examples of the hash type,1 (Novice),Data types,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Define and provide examples of the string type,1 (Novice),Data types,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Define and provide examples of the symbol type,1 (Novice),Data types,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Define and provide examples of the array type,1 (Novice),Data types,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Define and provide examples of the boolean type,1 (Novice),Data types,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Define the nil type,1 (Novice),Data types,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Combine two strings through concatenation,2 (Emerging),Data types,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Combine two strings through interpolation,2 (Emerging),Data types,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Create a inclusive and exclusive number range,2 (Emerging),Data types,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Find and replace a substring in a string,2 (Emerging),Data types,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Distinguish between literal and class constructors,3 (Progressing),Data types,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Access and change data in a hash,3 (Progressing),Data types,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Access and change data in an array,3 (Progressing),Data types,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Convert between floats and integers,3 (Progressing),Data types,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Convert between strings and integers,3 (Progressing),Data types,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Describe mutability,4 (Proficient),Data types,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Identify immutable data types,4 (Proficient),Data types,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Describe pass-by-value versus pass-by-reference,5 (Mastery),Data types,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Identify pass-by-value data types,5 (Mastery),Data types,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Identify an exception and its message,1 (Novice),Exceptions,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Define stacktrace/backtrace,1 (Novice),Exceptions,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Recall common exceptions,2 (Emerging),Exceptions,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Rescue a specific exception,3 (Progressing),Exceptions,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Raise an unspecified exception with a message,3 (Progressing),Exceptions,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Define and raise a custom exception,4 (Proficient),Exceptions,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Explain why best practice is to always rescue specific exceptions,4 (Proficient),Exceptions,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Implement an exception handler that uses other clauses in addition to rescue,5 (Mastery),Exceptions,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Explain the structure in which hashes hold data,1 (Novice),Hashes,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Create a hash using the literal constructor,1 (Novice),Hashes,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Retrieve data from a one-dimensional hash,1 (Novice),Hashes,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Add data to a one-dimensional hash,1 (Novice),Hashes,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Describe the syntax of a hash,1 (Novice),Hashes,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Iterate over a hash using Hash#each,2 (Emerging),Hashes,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Construct a multi-dimensional hash,2 (Emerging),Hashes,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Access data in multi-dimensional hash,2 (Emerging),Hashes,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Define key in the context of a hash,2 (Emerging),Hashes,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Iterate over a multi-dimensional hash,3 (Progressing),Hashes,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Compare and contrast iterating over hashes to iterating over arrays,3 (Progressing),Hashes,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Define nested data structures,3 (Progressing),Hashes,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Compare and contrast accessing values in hashes to accessing values in arrays,3 (Progressing),Hashes,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Map over a hash to get an array of values,4 (Proficient),Hashes,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Iterate over a nested data structure including nested hashes and arrays,4 (Proficient),Hashes,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Create a hash with default values,4 (Proficient),Hashes,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Compare and contrast hashes with string keys to hashes with symbol keys,4 (Proficient),Hashes,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Define associative array and compare to array,5 (Mastery),Hashes,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Implement a custom hash type,5 (Mastery),Hashes,"""Ruby Data (Types, Manipulation, Mutability)""",Ruby
+Open and close the terminal,1 (Novice),Bash,General programming in Ruby,Ruby
+Define Bash,1 (Novice),Bash,General programming in Ruby,Ruby
+Define a shell,1 (Novice),Bash,General programming in Ruby,Ruby
+Define environment variables,1 (Novice),Bash,General programming in Ruby,Ruby
+Explain use of `ls` Bash command,2 (Emerging),Bash,General programming in Ruby,Ruby
+Explain use of `cd` Bash command,2 (Emerging),Bash,General programming in Ruby,Ruby
+Explain use of `open` Bash command,2 (Emerging),Bash,General programming in Ruby,Ruby
+Explain use of the `pwd` Bash command,2 (Emerging),Bash,General programming in Ruby,Ruby
+Explain use of the `touch` Bash command,2 (Emerging),Bash,General programming in Ruby,Ruby
+Explain use of the `ruby` Bash command,2 (Emerging),Bash,General programming in Ruby,Ruby
+Explain the use of the `mkdir` Bash command,2 (Emerging),Bash,General programming in Ruby,Ruby
+Explain use of the `rm` Bash command,2 (Emerging),Bash,General programming in Ruby,Ruby
+Explain use of the `rmdir` Bash command,2 (Emerging),Bash,General programming in Ruby,Ruby
+Explain use of the `cp` Bash command,2 (Emerging),Bash,General programming in Ruby,Ruby
+Explain use of the `mv` Bash command,2 (Emerging),Bash,General programming in Ruby,Ruby
+Distinguish between a Bash session and the terminal window,3 (Progressing),Bash,General programming in Ruby,Ruby
+Distinguish between absolute paths and relative paths,3 (Progressing),Bash,General programming in Ruby,Ruby
+Display hidden files using flags,3 (Progressing),Bash,General programming in Ruby,Ruby
+Display all running programs,3 (Progressing),Bash,General programming in Ruby,Ruby
+"Predict differences in results of executing `cd`, `cd ~`, `cd .`, and `cd ..` Bash commands",4 (Proficient),Bash,General programming in Ruby,Ruby
+Describe the purpose of the PATH environment variable,4 (Proficient),Bash,General programming in Ruby,Ruby
+Describe how the pipe operator works in the command line,4 (Proficient),Bash,General programming in Ruby,Ruby
+Create an environment variable,5 (Mastery),Bash,General programming in Ruby,Ruby
+Add a custom path to the PATH environment variable,5 (Mastery),Bash,General programming in Ruby,Ruby
+Use the output of one program as the input to another with the pipe operator,5 (Mastery),Bash,General programming in Ruby,Ruby
+Define Command Line Interface (CLI),1 (Novice),CLI,General programming in Ruby,Ruby
+Implement a CLI which takes one piece of user input and prints out a message in response,2 (Emerging),CLI,General programming in Ruby,Ruby
+Implement a CLI class which listens for and delegates user input to other classes,3 (Progressing),CLI,General programming in Ruby,Ruby
+Implement a CLI which runs until a user signals to exit it,4 (Proficient),CLI,General programming in Ruby,Ruby
+Use user feedback to improve the user experience of a CLI,5 (Mastery),CLI,General programming in Ruby,Ruby
+Define REPL and why it's a useful tool in programming,1 (Novice),Debugging,General programming in Ruby,Ruby
+Access and exit IRB from your console,1 (Novice),Debugging,General programming in Ruby,Ruby
+Distinguish an IRB session from your Bash session,2 (Emerging),Debugging,General programming in Ruby,Ruby
+Compare IRB to the concept of a REPL,3 (Progressing),Debugging,General programming in Ruby,Ruby
+Execute Ruby code in an IRB session,3 (Progressing),Debugging,General programming in Ruby,Ruby
+Compare Pry to IRB,3 (Progressing),Debugging,General programming in Ruby,Ruby
+Use Pry in a method to pause execution and debug,4 (Proficient),Debugging,General programming in Ruby,Ruby
+Use Pry to capture an entire program's scope,5 (Mastery),Debugging,General programming in Ruby,Ruby
+Identify method that writes text (output) to the console,1 (Novice),I/O,General programming in Ruby,Ruby
+Identify method that receives text (input) from the console,1 (Novice),I/O,General programming in Ruby,Ruby
+Explain the difference between input from and output to the console,2 (Emerging),I/O,General programming in Ruby,Ruby
+Compare the side-effect of calling `puts` versus calling `print` with text,2 (Emerging),I/O,General programming in Ruby,Ruby
+"Implement a program which writes ""Hello world"" to the console",3 (Progressing),I/O,General programming in Ruby,Ruby
+Implement a method which writes user input directly to the console,3 (Progressing),I/O,General programming in Ruby,Ruby
+Describe how one could store the result of calling `gets` to a variable,4 (Proficient),I/O,General programming in Ruby,Ruby
+"Implement a method which receives user input, stores that input to a variable, and outputs text conditionally based on the input",5 (Mastery),I/O,General programming in Ruby,Ruby
+Define Application Programming Interface (API),1 (Novice),Importing remote data,General programming in Ruby,Ruby
+Define web scraping,1 (Novice),Importing remote data,General programming in Ruby,Ruby
+Define JavaScript Object Notation (JSON),1 (Novice),Importing remote data,General programming in Ruby,Ruby
+Describe ways that programmers work with APIs,2 (Emerging),Importing remote data,General programming in Ruby,Ruby
+Implement a method which loads data from another file,3 (Progressing),Importing remote data,General programming in Ruby,Ruby
+Implement a method which loads scraped data from an HTML web page,3 (Progressing),Importing remote data,General programming in Ruby,Ruby
+Implement a method which loads JSON data from a website,3 (Progressing),Importing remote data,General programming in Ruby,Ruby
+Use remote data to instantiate objects,4 (Proficient),Importing remote data,General programming in Ruby,Ruby
+Create classes to load a file / scrape HTML web pages / request remote data,4 (Proficient),Importing remote data,General programming in Ruby,Ruby
+Explain why abstracting the work of loading remote data is good practice,5 (Mastery),Importing remote data,General programming in Ruby,Ruby
+Define separation of concerns (SOC),5 (Mastery),Importing remote data,General programming in Ruby,Ruby
+Define programming library,1 (Novice),Libraries and dependencies in Ruby,General programming in Ruby,Ruby
+Define Ruby gem,1 (Novice),Libraries and dependencies in Ruby,General programming in Ruby,Ruby
+Install a Ruby gem globally,2 (Emerging),Libraries and dependencies in Ruby,General programming in Ruby,Ruby
+Load gem as dependency in a file,2 (Emerging),Libraries and dependencies in Ruby,General programming in Ruby,Ruby
+Define dependency,2 (Emerging),Libraries and dependencies in Ruby,General programming in Ruby,Ruby
+Load another Ruby file as a dependency in a file,2 (Emerging),Libraries and dependencies in Ruby,General programming in Ruby,Ruby
+Create a Gemfile,3 (Progressing),Libraries and dependencies in Ruby,General programming in Ruby,Ruby
+Install gems specific to a project using Gemfile,3 (Progressing),Libraries and dependencies in Ruby,General programming in Ruby,Ruby
+Explain the purpose of the Gemfile.lock,4 (Proficient),Libraries and dependencies in Ruby,General programming in Ruby,Ruby
+Create an environment file which loads all project dependencies,4 (Proficient),Libraries and dependencies in Ruby,General programming in Ruby,Ruby
+Explain how gems relate to your Ruby version,4 (Proficient),Libraries and dependencies in Ruby,General programming in Ruby,Ruby
+Locate a gem on your filesystem,4 (Proficient),Libraries and dependencies in Ruby,General programming in Ruby,Ruby
+Create a gem locally,5 (Mastery),Libraries and dependencies in Ruby,General programming in Ruby,Ruby
+Host a gem on Rubygems.org,5 (Mastery),Libraries and dependencies in Ruby,General programming in Ruby,Ruby
+"Recognize addition, multiplication, subtraction, and division operators",1 (Novice),Math in Ruby,General programming in Ruby,Ruby
+Recognize the remainder operator,1 (Novice),Math in Ruby,General programming in Ruby,Ruby
+Recognize the Math.sqrt method,1 (Novice),Math in Ruby,General programming in Ruby,Ruby
+Define the remainder operator,1 (Novice),Math in Ruby,General programming in Ruby,Ruby
+Compare the division and modulo operators,2 (Emerging),Math in Ruby,General programming in Ruby,Ruby
+Explain how to define an order of operation,2 (Emerging),Math in Ruby,General programming in Ruby,Ruby
+Implement a method which combines two or more mathematical operations,3 (Progressing),Math in Ruby,General programming in Ruby,Ruby
+"Find the method to perform a cube root NOTE: Knowing what you need to solve, can you figure out how to solve it without doing google search ",4 (Proficient),Math in Ruby,General programming in Ruby,Ruby
+"Differentiate between integer division and floating-point (""decimal"") division",4 (Proficient),Math in Ruby,General programming in Ruby,Ruby
+"Implement a method which accepts an array of numbers and outputs the average, NOTE: These are more like examples; If a student can meet this 5 criteria, they can solve these problems",5 (Mastery),Math in Ruby,General programming in Ruby,Ruby
+Implement a method which accepts a number as the radius of a circle and outputs the area,5 (Mastery),Math in Ruby,General programming in Ruby,Ruby
+Implement a method which accepts a number as the diameter of a circle and outputs the circumference,5 (Mastery),Math in Ruby,General programming in Ruby,Ruby
+Define metaprogramming,1 (Novice),Metaprogramming in Ruby,General programming in Ruby,Ruby
+Define keyword arguments,1 (Novice),Metaprogramming in Ruby,General programming in Ruby,Ruby
+Define macro,1 (Novice),Metaprogramming in Ruby,General programming in Ruby,Ruby
+Define mass assignment,1 (Novice),Metaprogramming in Ruby,General programming in Ruby,Ruby
+Define positional arguments,1 (Novice),Metaprogramming in Ruby,General programming in Ruby,Ruby
+Define abstraction,1 (Novice),Metaprogramming in Ruby,General programming in Ruby,Ruby
+Summarize how keyword arguments and mass assignment work together,2 (Emerging),Metaprogramming in Ruby,General programming in Ruby,Ruby
+Explain how mass assignment and macros fit under the umbrella of metaprogramming,2 (Emerging),Metaprogramming in Ruby,General programming in Ruby,Ruby
+Compare the use of positional arguments and keyword arguments,2 (Emerging),Metaprogramming in Ruby,General programming in Ruby,Ruby
+Explain how the rest operator works in the parameter list,2 (Emerging),Metaprogramming in Ruby,General programming in Ruby,Ruby
+Implement a method which takes in named keyword arguments and prints them out one at a time,3 (Progressing),Metaprogramming in Ruby,General programming in Ruby,Ruby
+Implement a method which takes in dynamic keyword arguments and prints them out one at a time,3 (Progressing),Metaprogramming in Ruby,General programming in Ruby,Ruby
+Implement a method which takes three positional arguments,3 (Progressing),Metaprogramming in Ruby,General programming in Ruby,Ruby
+Implement a method which optionally takes three positional arguments,3 (Progressing),Metaprogramming in Ruby,General programming in Ruby,Ruby
+Implement an instance method which assigns instance variables based on keyword arguments passed in,3 (Progressing),Metaprogramming in Ruby,General programming in Ruby,Ruby
+Distinguish between use cases for methods with named and dynamic keyword arguments,4 (Proficient),Metaprogramming in Ruby,General programming in Ruby,Ruby
+Outline potential benefits and drawbacks of using mass assignment,4 (Proficient),Metaprogramming in Ruby,General programming in Ruby,Ruby
+Create a macro which takes a symbol that creates a getter instance method in the current context for the instance variable with the same name as that symbol,5 (Mastery),Metaprogramming in Ruby,General programming in Ruby,Ruby
+Create a macro which takes a symbol that creates a setter instance method in the current context for the instance variable with the same name as that symbol,5 (Mastery),Metaprogramming in Ruby,General programming in Ruby,Ruby
+Create a macro which takes in a symbol that creates getter and setter instance methods for the instance variable with the same name as that symbol,5 (Mastery),Metaprogramming in Ruby,General programming in Ruby,Ruby
+Describe the relationship between metaprogramming and abstraction,5 (Mastery),Metaprogramming in Ruby,General programming in Ruby,Ruby
+Explain the need for testing software,1 (Novice),Testing in Ruby,General programming in Ruby,Ruby
+Define unit testing,1 (Novice),Testing in Ruby,General programming in Ruby,Ruby
+Define integration testing,1 (Novice),Testing in Ruby,General programming in Ruby,Ruby
+Define user acceptance testing / manual testing,1 (Novice),Testing in Ruby,General programming in Ruby,Ruby
+Define test-driven development (TDD),2 (Emerging),Testing in Ruby,General programming in Ruby,Ruby
+Install RSpec in a project,2 (Emerging),Testing in Ruby,General programming in Ruby,Ruby
+Define test case,2 (Emerging),Testing in Ruby,General programming in Ruby,Ruby
+Describe what a testing framework provides,3 (Progressing),Testing in Ruby,General programming in Ruby,Ruby
+Write tests for a previously created method,3 (Progressing),Testing in Ruby,General programming in Ruby,Ruby
+"Describe the difference between failing, passing, and pending test cases",3 (Progressing),Testing in Ruby,General programming in Ruby,Ruby
+Define edge case,4 (Proficient),Testing in Ruby,General programming in Ruby,Ruby
+Define happy/sad/bad path,4 (Proficient),Testing in Ruby,General programming in Ruby,Ruby
+Define assertions,4 (Proficient),Testing in Ruby,General programming in Ruby,Ruby
+Define matchers,4 (Proficient),Testing in Ruby,General programming in Ruby,Ruby
+Build a test suite for a collection of previously methods,4 (Proficient),Testing in Ruby,General programming in Ruby,Ruby
+Describe other types of software testing,5 (Mastery),Testing in Ruby,General programming in Ruby,Ruby
+Explain the use case for factories in testing,5 (Mastery),Testing in Ruby,General programming in Ruby,Ruby
+"Explain the use case for doubles, spies, or stubs",5 (Mastery),Testing in Ruby,General programming in Ruby,Ruby
+Explain how everything is an object,1 (Novice),Abstraction,Object-oriented Ruby,Ruby
+"Identify the components of a class (class keyword, initialize, instance methods, class methods)",1 (Novice),Abstraction,Object-oriented Ruby,Ruby
+Recognize the syntax of a class,1 (Novice),Abstraction,Object-oriented Ruby,Ruby
+Define class in your own words,1 (Novice),Abstraction,Object-oriented Ruby,Ruby
+Define instance in your own words,1 (Novice),Abstraction,Object-oriented Ruby,Ruby
+Compare and contrast creating class and instance methods,2 (Emerging),Abstraction,Object-oriented Ruby,Ruby
+Compare and contrast calling class and instance methods,2 (Emerging),Abstraction,Object-oriented Ruby,Ruby
+Define message in the context of OOP,2 (Emerging),Abstraction,Object-oriented Ruby,Ruby
+Define message receiver in the context of OOP,2 (Emerging),Abstraction,Object-oriented Ruby,Ruby
+Define self in OOP,2 (Emerging),Abstraction,Object-oriented Ruby,Ruby
+Explain the Single Responsibility Principle,2 (Emerging),Abstraction,Object-oriented Ruby,Ruby
+Explain the relationship between classes and instances,3 (Progressing),Abstraction,Object-oriented Ruby,Ruby
+Implement a class with and call both class and instance methods,3 (Progressing),Abstraction,Object-oriented Ruby,Ruby
+Implement and instantiate a class with an initialize method which accepts arguments,3 (Progressing),Abstraction,Object-oriented Ruby,Ruby
+Explain what the `new` class method does,3 (Progressing),Abstraction,Object-oriented Ruby,Ruby
+Set instance variables from initialize,3 (Progressing),Abstraction,Object-oriented Ruby,Ruby
+Describe how instance variables give objects attributes,3 (Progressing),Abstraction,Object-oriented Ruby,Ruby
+Explain when and why to use class variables and methods,3 (Progressing),Abstraction,Object-oriented Ruby,Ruby
+Implement an initialize method which adds new instances to a class variable which is an array of all instances,3 (Progressing),Abstraction,Object-oriented Ruby,Ruby
+Implement and instantiate a class with an initialize method with default arguments,4 (Proficient),Abstraction,Object-oriented Ruby,Ruby
+Demonstrate the difference between explicit and implicit references to self in various scopes,4 (Proficient),Abstraction,Object-oriented Ruby,Ruby
+Implement and instantiate a class with an initialize method which accepts keyword arguments,4 (Proficient),Abstraction,Object-oriented Ruby,Ruby
+Implement a class method which creates instances of its own class,4 (Proficient),Abstraction,Object-oriented Ruby,Ruby
+Implement a class method which returns all instances of its own class,4 (Proficient),Abstraction,Object-oriented Ruby,Ruby
+Implement a class method which finds an instance of its own class based on an argument,4 (Proficient),Abstraction,Object-oriented Ruby,Ruby
+Implement a class method which finds an instance of its own class by a condition provided by a block,5 (Mastery),Abstraction,Object-oriented Ruby,Ruby
+Explain the concept of monkey patching,5 (Mastery),Abstraction,Object-oriented Ruby,Ruby
+Implement monkey patching with a class that you've created,5 (Mastery),Abstraction,Object-oriented Ruby,Ruby
+Define abstraction as a pillar of the object oriented programming paradigm,5 (Mastery),Abstraction,Object-oriented Ruby,Ruby
+Define object composition,1 (Novice),Aggregation,Object-oriented Ruby,Ruby
+Define object association,1 (Novice),Aggregation,Object-oriented Ruby,Ruby
+Define problem domain,1 (Novice),Aggregation,Object-oriented Ruby,Ruby
+"Define a ""belongs-to"" object association and provide an example domain",2 (Emerging),Aggregation,Object-oriented Ruby,Ruby
+"Define a ""has-many"" object association and provide an example domain",2 (Emerging),Aggregation,Object-oriented Ruby,Ruby
+"Diagram a ""belongs-to"" object association using an example domain",2 (Emerging),Aggregation,Object-oriented Ruby,Ruby
+"Diagram a ""has-many"" object association using an example domain",2 (Emerging),Aggregation,Object-oriented Ruby,Ruby
+"Define a ""many-to-many""/""has-many-through"" object association and provide an example domain",2 (Emerging),Aggregation,Object-oriented Ruby,Ruby
+"Diagram a ""many-to-many""/""has-many-through"" object association using an example domain",2 (Emerging),Aggregation,Object-oriented Ruby,Ruby
+"Implement classes with a ""belongs-to"" and ""has-many"" object association",3 (Progressing),Aggregation,Object-oriented Ruby,Ruby
+"Implement classes that interact with each other through ""belongs-to""/""has-many"" object associations",3 (Progressing),Aggregation,Object-oriented Ruby,Ruby
+"Explain why we need to associate objects with ""has-many"" and ""belongs-to"" object associations",3 (Progressing),Aggregation,Object-oriented Ruby,Ruby
+"Contrast ""many-to-many"" object associations and ""belongs-to""/""has-many"" object associations",3 (Progressing),Aggregation,Object-oriented Ruby,Ruby
+"Implement classes with a ""many-to-many"" object association",3 (Progressing),Aggregation,Object-oriented Ruby,Ruby
+"Implement classes that interact with each other through ""many-to-many"" object associations",3 (Progressing),Aggregation,Object-oriented Ruby,Ruby
+"Explain the concept of a ""join"" class",4 (Proficient),Aggregation,Object-oriented Ruby,Ruby
+"Define ""single source of truth"" in the context of object associations",4 (Proficient),Aggregation,Object-oriented Ruby,Ruby
+Describe how you would abstract code repeated between multiple classes,5 (Mastery),Aggregation,Object-oriented Ruby,Ruby
+Explain how instance methods have access to instance variables,1 (Novice),Encapsulation,Object-oriented Ruby,Ruby
+Explain how instance methods have access to class variables,1 (Novice),Encapsulation,Object-oriented Ruby,Ruby
+Explain how class methods have access to class variables,1 (Novice),Encapsulation,Object-oriented Ruby,Ruby
+Contrast setter and getter methods,2 (Emerging),Encapsulation,Object-oriented Ruby,Ruby
+Implement and call a getter method which exposes an instance variable's value,2 (Emerging),Encapsulation,Object-oriented Ruby,Ruby
+Implement and call a setter method which updates an instance variable's value,2 (Emerging),Encapsulation,Object-oriented Ruby,Ruby
+Describe the functionality that the `attr_reader` macro provides to an instance,2 (Emerging),Encapsulation,Object-oriented Ruby,Ruby
+Describe the functionality that the `attr_writer` macro provides to an instance,2 (Emerging),Encapsulation,Object-oriented Ruby,Ruby
+Describe the functionality that the `attr_accessor` macro provides to an instance,2 (Emerging),Encapsulation,Object-oriented Ruby,Ruby
+Demonstrate a class which uses an `attr_reader` to create a method to expose an instance variable's value,3 (Progressing),Encapsulation,Object-oriented Ruby,Ruby
+Demonstrate a class which uses `attr_writer` to create a method to update an instance variable's value,3 (Progressing),Encapsulation,Object-oriented Ruby,Ruby
+Demonstrate a class which uses `attr_accessor` to create methods to expose and update an instance variable's value,3 (Progressing),Encapsulation,Object-oriented Ruby,Ruby
+Define an application programming interface (API),4 (Proficient),Encapsulation,Object-oriented Ruby,Ruby
+Explain why you would choose to use an attribute macro instead of creating a custom getter and/or setter method,4 (Proficient),Encapsulation,Object-oriented Ruby,Ruby
+Explain why you would choose one attribute macro over another,4 (Proficient),Encapsulation,Object-oriented Ruby,Ruby
+Define method visibility (internal and external),5 (Mastery),Encapsulation,Object-oriented Ruby,Ruby
+"Explain the difference between public, private, and protected methods",5 (Mastery),Encapsulation,Object-oriented Ruby,Ruby
+Describe use cases for defining private and protected methods,5 (Mastery),Encapsulation,Object-oriented Ruby,Ruby
+Describe inheritance in general,1 (Novice),Inheritance,Object-oriented Ruby,Ruby
+Define classical inheritance,2 (Emerging),Inheritance,Object-oriented Ruby,Ruby
+Define mixins,2 (Emerging),Inheritance,Object-oriented Ruby,Ruby
+Define modules,2 (Emerging),Inheritance,Object-oriented Ruby,Ruby
+Implement one class which inherits all methods from another class,3 (Progressing),Inheritance,Object-oriented Ruby,Ruby
+Implement one class with methods mixed in from a module,3 (Progressing),Inheritance,Object-oriented Ruby,Ruby
+Compare and contrast classical inheritance with inheritance through mixins,3 (Progressing),Inheritance,Object-oriented Ruby,Ruby
+"Implement one class which inherits methods from another class, but also has unique methods",3 (Progressing),Inheritance,Object-oriented Ruby,Ruby
+Compare and contrast the `include` and `extend` methods,4 (Proficient),Inheritance,Object-oriented Ruby,Ruby
+Explain why methods in subclasses that are overwritten would need to use `super`,4 (Proficient),Inheritance,Object-oriented Ruby,Ruby
+Define namespace,4 (Proficient),Inheritance,Object-oriented Ruby,Ruby
+Explain what the `::` operator does,5 (Mastery),Inheritance,Object-oriented Ruby,Ruby
+Describe the process of method lookup,5 (Mastery),Inheritance,Object-oriented Ruby,Ruby
+Identify the parts of a block,1 (Novice),Closures,Procedural Ruby,Ruby
+Recall three built-in methods which use blocks,1 (Novice),Closures,Procedural Ruby,Ruby
+Define block in programming,1 (Novice),Closures,Procedural Ruby,Ruby
+Use blocks in the Enumerable#all? method,2 (Emerging),Closures,Procedural Ruby,Ruby
+Use blocks in the Enumerable#sort method,2 (Emerging),Closures,Procedural Ruby,Ruby
+Use block in the Enumerable#find method,2 (Emerging),Closures,Procedural Ruby,Ruby
+Implement a method which accepts a block with arguments,3 (Progressing),Closures,Procedural Ruby,Ruby
+Implement a method which accepts a block with no arguments,3 (Progressing),Closures,Procedural Ruby,Ruby
+Define the yield statement,4 (Proficient),Closures,Procedural Ruby,Ruby
+Implement a method which accepts two blocks as arguments,5 (Mastery),Closures,Procedural Ruby,Ruby
+Explain closure scope,5 (Mastery),Closures,Procedural Ruby,Ruby
+"Distinguish between blocks, procs, and lambdas",5 (Mastery),Closures,Procedural Ruby,Ruby
+Define control flow,1 (Novice),Control flow with conditionals,Procedural Ruby,Ruby
+Recognize boolean operators,1 (Novice),Control flow with conditionals,Procedural Ruby,Ruby
+Recognize comparison operators,1 (Novice),Control flow with conditionals,Procedural Ruby,Ruby
+Recognize control flow statements,1 (Novice),Control flow with conditionals,Procedural Ruby,Ruby
+Identify falsey values,2 (Emerging),Control flow with conditionals,Procedural Ruby,Ruby
+"Explain the use of the single bang (NOT) ""operator""",2 (Emerging),Control flow with conditionals,Procedural Ruby,Ruby
+"Explain the use of the double bang (NOT NOT) ""operator""",2 (Emerging),Control flow with conditionals,Procedural Ruby,Ruby
+Explain the use of the double ampersand (AND) operator,2 (Emerging),Control flow with conditionals,Procedural Ruby,Ruby
+Explain the use of the double pipe (OR) operator,2 (Emerging),Control flow with conditionals,Procedural Ruby,Ruby
+Describe the connection between comparison operators and booleans,3 (Progressing),Control flow with conditionals,Procedural Ruby,Ruby
+Describe the connection between booleans and control flow,3 (Progressing),Control flow with conditionals,Procedural Ruby,Ruby
+Define a method which returns two different values based on one condition,3 (Progressing),Control flow with conditionals,Procedural Ruby,Ruby
+Define statement modifiers,3 (Progressing),Control flow with conditionals,Procedural Ruby,Ruby
+Define the ternary operator,3 (Progressing),Control flow with conditionals,Procedural Ruby,Ruby
+Define a method which returns different values based on multiple conditions,4 (Proficient),Control flow with conditionals,Procedural Ruby,Ruby
+Convert between using case statements and if statements,4 (Proficient),Control flow with conditionals,Procedural Ruby,Ruby
+Describe how to debug a program with a complicated control flow,4 (Proficient),Control flow with conditionals,Procedural Ruby,Ruby
+Implement a custom sorting function with the spaceship operator,5 (Mastery),Control flow with conditionals,Procedural Ruby,Ruby
+Use a ternary operator to conditionally assign a value to a variable,5 (Mastery),Control flow with conditionals,Procedural Ruby,Ruby
+Use a statement modifier to conditionally return a value,5 (Mastery),Control flow with conditionals,Procedural Ruby,Ruby
+Describe how the return statement is related to control flow,5 (Mastery),Control flow with conditionals,Procedural Ruby,Ruby
+Define looping,1 (Novice),Control flow with loops,Procedural Ruby,Ruby
+Define iteration (over a collection),1 (Novice),Control flow with loops,Procedural Ruby,Ruby
+"Recognize the ""add AND"", ""subtract AND"", etc. operators in Ruby",1 (Novice),Control flow with loops,Procedural Ruby,Ruby
+Recognize a while loop,2 (Emerging),Control flow with loops,Procedural Ruby,Ruby
+Recognize an until loop,2 (Emerging),Control flow with loops,Procedural Ruby,Ruby
+Recognize a for loop,2 (Emerging),Control flow with loops,Procedural Ruby,Ruby
+Use a while loop to perform an operation n times,3 (Progressing),Control flow with loops,Procedural Ruby,Ruby
+Use a for loop to perform an operation n times,3 (Progressing),Control flow with loops,Procedural Ruby,Ruby
+Use a times loop to perform an operation n times,3 (Progressing),Control flow with loops,Procedural Ruby,Ruby
+Explain how for loops are an abstraction of while loops,4 (Proficient),Control flow with loops,Procedural Ruby,Ruby
+Use break to stop a loop based on a condition,4 (Proficient),Control flow with loops,Procedural Ruby,Ruby
+"Implement a method which loops at non-standard intervals (even numbers, multiples of 4.5)",5 (Mastery),Control flow with loops,Procedural Ruby,Ruby
+Recognize a method definition,1 (Novice),Methods,Procedural Ruby,Ruby
+Recognize a method call,1 (Novice),Methods,Procedural Ruby,Ruby
+Recognize a method call with arguments,1 (Novice),Methods,Procedural Ruby,Ruby
+Recognize a method definition with positional parameters,1 (Novice),Methods,Procedural Ruby,Ruby
+Recognize error raised when required positional arguments are not passed to a method,1 (Novice),Methods,Procedural Ruby,Ruby
+Explain what a procedure/method does,2 (Emerging),Methods,Procedural Ruby,Ruby
+Explain what the return statement does,2 (Emerging),Methods,Procedural Ruby,Ruby
+Explain what a method returns without a return statement,2 (Emerging),Methods,Procedural Ruby,Ruby
+Define and invoke a method with an implicit return,3 (Progressing),Methods,Procedural Ruby,Ruby
+Define and invoke a method with an explicit return,3 (Progressing),Methods,Procedural Ruby,Ruby
+Define and invoke a method which accepts required positional arguments,3 (Progressing),Methods,Procedural Ruby,Ruby
+Define and invoke a method which calls another method in its definition,3 (Progressing),Methods,Procedural Ruby,Ruby
+Define and invoke a method with default arguments,4 (Proficient),Methods,Procedural Ruby,Ruby
+Define and invoke a method that uses the splat operator,4 (Proficient),Methods,Procedural Ruby,Ruby
+Explain what the splat operator does to a method's arguments,4 (Proficient),Methods,Procedural Ruby,Ruby
+Demonstrate chaining custom methods,4 (Proficient),Methods,Procedural Ruby,Ruby
+Define and invoke a method with required keyword parameters,5 (Mastery),Methods,Procedural Ruby,Ruby
+Define and invoke a method with required keyword parameters and default keyword arguments,5 (Mastery),Methods,Procedural Ruby,Ruby
+Define and invoke a method that uses the double splat operator,5 (Mastery),Methods,Procedural Ruby,Ruby
+Explain what the double splat operator does to a method's arguments,5 (Mastery),Methods,Procedural Ruby,Ruby
+Identify methods that have code smells and refactor them into multiple methods,5 (Mastery),Methods,Procedural Ruby,Ruby
+Explain what keyword parameters are,5 (Mastery),Methods,Procedural Ruby,Ruby
+Recognize a local variable,1 (Novice),Variables and Scope,Procedural Ruby,Ruby
+Recognize an instance variable,1 (Novice),Variables and Scope,Procedural Ruby,Ruby
+Recognize a class variable,1 (Novice),Variables and Scope,Procedural Ruby,Ruby
+Recognize a class constant,1 (Novice),Variables and Scope,Procedural Ruby,Ruby
+Define variable scope,1 (Novice),Variables and Scope,Procedural Ruby,Ruby
+Recognize a global variable,1 (Novice),Variables and Scope,Procedural Ruby,Ruby
+Identify the scope of a local variable,2 (Emerging),Variables and Scope,Procedural Ruby,Ruby
+Identify the scope of an instance variable,2 (Emerging),Variables and Scope,Procedural Ruby,Ruby
+Identify the scope of a class variable,2 (Emerging),Variables and Scope,Procedural Ruby,Ruby
+Identify the scope of a global variable,2 (Emerging),Variables and Scope,Procedural Ruby,Ruby
+Describe how a variable differs from a value,3 (Progressing),Variables and Scope,Procedural Ruby,Ruby
+Describe the scope of arguments passed into a method,3 (Progressing),Variables and Scope,Procedural Ruby,Ruby
+Assign three types of variables,3 (Progressing),Variables and Scope,Procedural Ruby,Ruby
+Implement an initialize method which saves instances of a class in a collection,3 (Progressing),Variables and Scope,Procedural Ruby,Ruby
+Define pass-by-reference,4 (Proficient),Variables and Scope,Procedural Ruby,Ruby
+Define pass-by-value,4 (Proficient),Variables and Scope,Procedural Ruby,Ruby
+Demonstrate two ways to find the value of a variable at runtime,4 (Proficient),Variables and Scope,Procedural Ruby,Ruby
+Define block scope in Ruby,5 (Mastery),Variables and Scope,Procedural Ruby,Ruby
+Implement a method which utilizes a class constant,5 (Mastery),Variables and Scope,Procedural Ruby,Ruby
+Explain when one would use the OR EQUALS operator in Ruby,5 (Mastery),Variables and Scope,Procedural Ruby,Ruby
